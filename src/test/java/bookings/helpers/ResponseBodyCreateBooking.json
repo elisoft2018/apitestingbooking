@@ -1,0 +1,14 @@
+{
+  "bookingid": "#number",
+  "booking": {
+    "firstname" : "Eduardo Jose",
+    "lastname" : "Alba Perez",
+    "totalprice" : 23344545,
+    "depositpaid" : false,
+    "bookingdates" : {
+      "checkin" : "2025-01-01",
+      "checkout" : "2025-02-23"
+    },
+    "additionalneeds" : "Dinner"
+  }
+}

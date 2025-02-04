@@ -1,0 +1,11 @@
+{
+  "firstname" : "Jose Alvaro",
+  "lastname" : "Alba Alba",
+  "totalprice" : 9876543,
+  "depositpaid" : true,
+  "bookingdates" : {
+    "checkin" : "2025-02-01",
+    "checkout" : "2025-02-23"
+  },
+  "additionalneeds" : "Breakfast"
+}

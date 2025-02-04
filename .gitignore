@@ -1,0 +1,30 @@
+# Ignorar carpetas de Maven o Gradle
+/target/
+/build/
+/.gradle/
+/.mvn/
+/mvnw
+/mvnw.cmd
+
+# Ignorar carpetas de dependencias locales
+/.m2/
+/~/.gradle/
+
+# Ignorar archivos de configuración del IDE
+/.idea/
+/.vscode/
+*.iml
+.project
+.classpath
+
+# Ignorar logs y reportes de pruebas
+*.log
+/target/test-logs/
+/target/surefire-reports/
+
+# Archivos temporales generados
+*.xml
+!pom.xml
+!logback-test.xml
+*.csv
+*.txt
