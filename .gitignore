@@ -1,4 +1,4 @@
-# Ignorar carpetas de Maven o Gradle
+# Ignore folders of Maven or Gradle
 /target/
 /build/
 /.gradle/
@@ -6,23 +6,23 @@
 /mvnw
 /mvnw.cmd
 
-# Ignorar carpetas de dependencias locales
+# Ignore folders of local dependencies
 /.m2/
 /~/.gradle/
 
-# Ignorar archivos de configuración del IDE
+# Ignore files configiration for IDE
 /.idea/
 /.vscode/
 *.iml
 .project
 .classpath
 
-# Ignorar logs y reportes de pruebas
+# Ignore logs and testing report
 *.log
 /target/test-logs/
 /target/surefire-reports/
 
-# Archivos temporales generados
+# Temporal files generated
 *.xml
 !pom.xml
 !logback-test.xml
